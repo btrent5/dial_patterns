@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<digitmapFullTOList>
+    <implementationVersion>0</implementationVersion>
+    <specificationVersion>0</specificationVersion>
+    <buildNumber>0</buildNumber>
+
+<DigitmapFullTO>
+    <notes></notes>
+    <deny>false</deny>
+    <digitpattern>1234</digitpattern>
+    <emergency_order>1</emergency_order>
+    <maxdigits>36</maxdigits>
+    <mindigits>4</mindigits>
+    <routingoriginationName>name</routingoriginationName>
+    <routingpolicyNames>name</routingpolicyNames>
+    <sipdomainName>domain</sipdomainName>
+    <treatasemergency>false</treatasemergency>
+</DigitmapFullTO>
+
+<DigitmapFullTO>
+    <notes></notes>
+    <deny>false</deny>
+    <digitpattern>5678</digitpattern>
+    <emergency_order>1</emergency_order>
+    <maxdigits>36</maxdigits>
+    <mindigits>4</mindigits>
+    <routingoriginationName>name</routingoriginationName>
+    <routingpolicyNames>name</routingpolicyNames>
+    <routingpolicyNames>name</routingpolicyNames>
+    <sipdomainName>domain</sipdomainName>
+    <treatasemergency>false</treatasemergency>
+</DigitmapFullTO>
+
+</digitmapFullTOList>
